@@ -23,4 +23,6 @@ URL Minimizer is a user-friendly Python application designed to shorten long URL
 - Please make sure to enter a valid URL to get the correct shortened link.
 - The application's code is written in Python, utilizing libraries like tkinter and pyshorteners.
 
+## Preview:
+
 ### This README.md serves as a comprehensive guide, explaining the project's purpose, functionality, and how to use it effectively.
